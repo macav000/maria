@@ -1,4 +1,3 @@
-https://editor.p5js.org/00001132989449sp/full/zQ8b6TXV3
 <!DOCTYPE html>
 <html lang="pt-br">
 
@@ -18,8 +17,6 @@ https://editor.p5js.org/00001132989449sp/full/zQ8b6TXV3
         <p>Sou aluna do alura!</p>
         <p>Minhas habilidades</p>
         <div>
-            <p class="badge bg-secondary">HTML</p>
-            <p class="badge bg-secondary">CSS</p>
             <p class="badge bg-secondary">JavaScript</p>
             <p class="badge bg-secondary">Scratch</p>
         </div>
